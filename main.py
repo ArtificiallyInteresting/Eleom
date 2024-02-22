@@ -10,5 +10,4 @@ def run_game():
         game_llm.process_action(action)
 
 if __name__ == "__main__":
-    print("Running game")
     run_game()

@@ -1,1 +1,9 @@
-initial commit, fill this later
+# Eleom
+
+## Description
+
+Eleom is a role playing game in which an LLM is acting as a dungeon master to a character in a fantasy world. The game is played in a text-based interface, and the player can interact with the game by typing commands. The game is designed to be played in a terminal, and it is written in Python.
+
+## Installation
+
+Simply run `pip install -r requirements.txt` to install the required packages, then run main.py to start the game.
